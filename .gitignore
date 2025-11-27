@@ -7,3 +7,9 @@ test.ipynb
 myvenv/
 
 Lab_02/23521183_NguyenHuynhMinhPhu.txt
+
+# Ignore model weights
+*.pth
+*.pt
+
+Lab_03/23521183_NguyenHuynhMinhPhu.txt
