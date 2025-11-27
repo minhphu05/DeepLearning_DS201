@@ -232,4 +232,3 @@ class phoNERT(Dataset):
             "input_ids": input_ids,
             "tags_ids": tags_ids
         }
-        
